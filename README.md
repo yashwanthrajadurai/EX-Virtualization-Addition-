@@ -100,11 +100,8 @@ Now you can start using Kali Linux on your virtual machine.
 
 
 ## OUTPUT :
+![Screenshot_2025-02-26_03_22_33](https://github.com/user-attachments/assets/fa4cfa3b-b88f-4968-a04b-a2b5ee4b5a3c)
 
-![1](img/Screenshot_2025-02-26_03_16_59.png)
-
-
-![2](img/Screenshot_2025-02-26_03_22_33.png)
 
  
  
